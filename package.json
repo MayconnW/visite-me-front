@@ -1,0 +1,81 @@
+{
+  "name": "colgate-front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.5.0",
+    "@material-ui/icons": "^4.4.3",
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
+    "final-form": "^4.18.5",
+    "final-form-focus": "^1.1.2",
+    "format-string-by-pattern": "^1.1.1",
+    "history": "^4.10.1",
+    "immer": "^3.2.0",
+    "moment": "^2.24.0",
+    "node-sass": "^4.12.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-awesome-slider": "^2.0.0",
+    "react-dom": "^16.9.0",
+    "react-final-form": "^6.3.0",
+    "react-icons": "^3.7.0",
+    "react-loading": "^2.0.3",
+    "react-moment": "^0.9.6",
+    "react-player": "^1.13.0",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.0.1",
+    "react-safe-html": "^0.6.1",
+    "react-scripts": "3.1.1",
+    "react-select": "^3.0.8",
+    "react-select-async-paginate": "^0.3.10",
+    "react-tabs": "^3.0.0",
+    "react-toastify": "^5.4.0",
+    "reactjs-popup": "^1.5.0",
+    "reactotron-react-js": "^3.3.2",
+    "reactotron-redux": "^3.1.1",
+    "reactotron-redux-saga": "^4.2.2",
+    "redux": "^4.0.4",
+    "redux-persist": "^6.0.0",
+    "redux-saga": "^1.0.5",
+    "styled-components": "^4.3.2",
+    "yup": "^0.27.0"
+  },
+  "scripts": {
+    "another": "react-scripts start",
+    "start": "react-app-rewired start",
+    "build": "GENERATE_SOURCEMAP=false react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "babel-plugin-root-import": "^6.4.1",
+    "customize-cra": "^0.7.0",
+    "eslint": "^6.2.2",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "prettier": "^1.18.2",
+    "prettier-eslint": "^9.0.0",
+    "react-app-rewired": "^2.1.3"
+  }
+}

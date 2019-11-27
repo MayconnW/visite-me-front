@@ -1,0 +1,15 @@
+.buttons input[type="text"] {
+  margin-top: 40px;
+}
+
+.buttons input[type="password"] {
+  margin-top: 40px;
+}
+
+.buttons input[type="button"] {
+  margin-top: 25px;
+}
+
+.buttons textarea {
+  margin-top: 25px;
+}
