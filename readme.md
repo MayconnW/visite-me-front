@@ -1,0 +1,6 @@
+VisiteMe
+A ideia principal do VisiteMe é aproximar os alunos do ensino médio à empresas de qualquer porte e cidade do Brasil que estão dispostas a abrir suas portas e inspira-los a fazer parte do mundo da tecnologia e inovação.
+A aplicação suporta multiplataforma com as stacks do Bootcamp da Rocketseat, sendo as tecnologias, NodeJs, React, ReactNative. o servidor está sendo rodado pela plataforma Heroku.
+As empresas utilizarão o website para fazer um breve cadastro. Após autenticada poderão criar seus eventos com suas informações, sendo elas, local, data, hora, descrição e quantidade de vagas.
+Os eventos tem o propósito de guiar os alunos à conhecerem o ambiente de trabalho das empresas e o dia a dia de pessoas que trabalham com tecnologia.
+Os alunos farão um cadastro através do aplicativo mobile. Já logados terão como sua tela principal um mapa da sua região informando os eventos através de pin’s. Basta clicar sobre um pin para que o aluno acesse as informações referentes ao evento selecionado e clicar sobre o botão de cadastro para fazer sua inscrição. Após ingressar no evento, haverá um alerta para o aluno menor de idade, para que ele tenha acesso ao evento, o aluno deverá comparecer à empresa no dia do evento com o documento de autorização preenchido pelos responsáveis legais.
